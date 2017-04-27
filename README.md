@@ -12,7 +12,7 @@
 - [ ] Shadow mapping <br />
 - [ ] Reflection <br />
 - [ ] Water refraction <br />
-- [ ] Environment mapping <br />
+- [x] Environment mapping <br />
 - [ ] Soft bodies <br />
 
 # Build Instructions
